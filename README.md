@@ -6,4 +6,9 @@ Aluna: Layse Freire
 [link de referência da linguagem Markdown](https://markdown.net.br)
 
 ### Inserindo uma imagem
+
 ![Galaxy Cluster Abell 1689](https://imagine.gsfc.nasa.gov/hst_bday/images/june-12-2019-galaxy-cluster-abell-1689.jpg)
+
+![Rose galaxy](./Figs/Rose.jpg)
+
+### Upload de arquivos
