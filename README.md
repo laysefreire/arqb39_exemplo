@@ -6,4 +6,4 @@ Aluna: Layse Freire
 [link de referência da linguagem Markdown](https://markdown.net.br)
 
 ### Inserindo uma imagem
-![Python logo] (https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png)
+![Python logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png)
