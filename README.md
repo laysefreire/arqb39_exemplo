@@ -9,6 +9,6 @@ Aluna: Layse Freire
 
 ![Galaxy Cluster Abell 1689](https://imagine.gsfc.nasa.gov/hst_bday/images/june-12-2019-galaxy-cluster-abell-1689.jpg)
 
-![Rose galaxy](./Figs/Rose.jpg)
+![Rose galaxy](Figs/Rose_Arp273.jpg)
 
 ### Upload de arquivos
