@@ -7,7 +7,7 @@ Aluna: Layse Freire
 
 ### Inserindo uma imagem
 
-![Galaxy Cluster Abell 1689](https://imagine.gsfc.nasa.gov/hst_bday/images/june-12-2019-galaxy-cluster-abell-1689.jpg =250xp)
+![Galaxy Cluster Abell 1689](https://imagine.gsfc.nasa.gov/hst_bday/images/june-12-2019-galaxy-cluster-abell-1689.jpg =100x20)
 
 ![Rose galaxy](Figs/Rose_Arp273.jpg)
 
